@@ -74,13 +74,3 @@ Blinkit, a **quick-commerce platform**, enables users to order groceries and ess
 This dashboard serves as a **scalable template** for similar quick-commerce businesses!  
 
 ---
-
-## 📥 How to Use the Dashboard  
-1️⃣ **Load the dataset** into Power BI  
-2️⃣ **Explore KPIs** using interactive filters and drill-down capabilities  
-3️⃣ **Use insights** to make data-driven decisions  
-
----
-
-🎯 **Contributions & Feedback**  
-📩 Have suggestions or improvements? Feel free to contribute or raise an issue!  
