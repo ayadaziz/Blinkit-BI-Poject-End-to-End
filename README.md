@@ -25,32 +25,44 @@ Blinkit, a **quick-commerce platform**, enables users to order groceries and ess
 
 ---
 
-## 📊 Dashboard Features  
+## Dashboard Features  
 
-### 🏠 **Overview Page**  
-📈 **Total Deliveries Over Time** *(Line Chart)* → Identifies peak and off-peak periods for resource allocation  
-📊 **Delivery Completion Rate** *(Donut Chart)* → Tracks successful vs. failed deliveries for logistics improvements  
+### 🏠 **Overview Page** 
+
+![image](https://github.com/user-attachments/assets/adfa2c4a-cf72-48b5-b95d-95e5ede6fe4a)
+
+### 📊 **Sales Overview**
+
+![image](https://github.com/user-attachments/assets/5d3a59f9-d8fc-4224-9f1d-ce3bea26c370)
+
+📈 **Payment Method** *(Donut Chart)* → Identifies payment methods used  
+📊 **Top Products** *(Bar Chart)* → Tracks top products based on their revenue  
 🌍 **Revenue by Region** *(Bar Chart)* → Highlights top-performing and underperforming locations  
 
 ### 👥 **Customer Insights**  
+
+![image](https://github.com/user-attachments/assets/4b33acfc-bfb3-44af-b2ff-94cfabe427e2)
+
+
 🎯 **Customer Retention Rate** *(Gauge Chart)* → Evaluates loyalty program effectiveness  
-🏆 **Top Customers by Revenue** *(Table)* → Identifies high-value customers for engagement  
-💬 **Customer Feedback Trends** *(Word Cloud/Sentiment Analysis)* → Analyzes reviews for business improvements  
+🏆 **Top Customers by Revenue** *(Bar Chart)* → Identifies high-value customers for engagement  
+💬 **Customer Count By Month** *(Bar Chart)* → Analyzes customer growth by month  
 
 ### 📢 **Marketing Performance**  
-📊 **Campaign ROI Analysis** *(Bar/Funnel Chart)* → Compares marketing investments vs. generated revenue  
-📣 **Customer Acquisition by Channel** *(Pie Chart)* → Identifies which channels attract the most new users  
-📍 **Marketing Spend by Region** *(Stacked Bar Chart)* → Assesses regional budget efficiency  
 
-### 📦 **Inventory Management**  
-📊 **Stock Levels by Category** *(Bar Chart)* → Prevents stockouts and overstock situations  
+![image](https://github.com/user-attachments/assets/92ff814b-77e8-49cd-8cf3-f1f50c5c7353)
+
+
+📊 **Campaign ROI Analysis**  → Compares marketing investments vs. generated revenue  
+
+### 📦 **Inventory Management** 
+
+![image](https://github.com/user-attachments/assets/de63fc50-9acf-416d-b40c-ee492725ac19)
+
+
+📊 **Stock Levels by Category** *(Line Chart)* → Prevents stockouts and overstock situations  
 📈 **Inventory Turnover Ratio** *(KPI Card)* → Evaluates the efficiency of stock management  
-🚨 **Low Stock Alerts** *(Heatmap/Table)* → Ensures timely restocking to prevent lost sales  
-
-### 💰 **Sales & Revenue Analysis**  
-📊 **Revenue by Product Category** *(Column Chart)* → Identifies most & least profitable product categories  
-📈 **Monthly Sales Trends** *(Line Chart)* → Tracks revenue growth or decline over time  
-💵 **Average Order Value (AOV)** *(KPI Card)* → Helps optimize pricing and upselling strategies  
+🚨 **Stock availaibility** *(Donut Chart)* → Ensures timely restocking to prevent lost sales  
 
 ---
 
