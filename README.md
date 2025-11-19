@@ -66,10 +66,6 @@ Blinkit, a **quick-commerce platform**, enables users to order groceries and ess
 
 ---
 
-## 🚀 Why This Project?  
-✔️ **Hands-on experience with Power BI & data visualization**  
-✔️ **Real-world application of business intelligence (BI)**  
-✔️ **A scalable framework for solving operational challenges with analytics**  
 
 This dashboard serves as a **scalable template** for similar quick-commerce businesses!  
 
