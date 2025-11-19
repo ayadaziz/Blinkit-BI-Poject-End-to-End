@@ -29,6 +29,9 @@ Blinkit, a **quick-commerce platform**, enables users to order groceries and ess
 
 ### 🏠 **Overview Page** 
 
+<img width="949" height="532" alt="image" src="https://github.com/user-attachments/assets/4e994ad3-e0ee-402d-86ea-547797b76615" />
+
+
 ![image](https://github.com/user-attachments/assets/adfa2c4a-cf72-48b5-b95d-95e5ede6fe4a)
 
 ### 📊 **Sales Overview**
