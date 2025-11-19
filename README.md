@@ -66,7 +66,3 @@ Blinkit, a **quick-commerce platform**, enables users to order groceries and ess
 
 ---
 
-
-This dashboard serves as a **scalable template** for similar quick-commerce businesses!  
-
----
